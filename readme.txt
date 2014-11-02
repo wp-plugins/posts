@@ -10,6 +10,12 @@ Adds interactive sticky next post popup/optin.
 
 Adds interactive sticky next post popup/optin.
 
+Increase your blog post traffic by adding this powerful tool. Show them preview of next/Previous post. Select different layouts/designs to match with your theme.
+
+> <strong>How Post Next attracts Visitors ?</strong>
+
+> The Post Next plugin appends a popup/optin box at bottom corner of the page when user scrolls half height of current page which shows that visitor is interested in your content and wants to read more of your posts, So its beautiful design grabs user attention and guide them by showing a short preview of next or previous post.
+
 == Installation ==
 
 1. Upload \`plugin-name.php\` to the \`/wp-content/plugins/\` directory
