@@ -1,6 +1,6 @@
 === Post Next ===
 Contributors: umarbajwa
-Tags: posts,next post,previous posts,post loop
+Tags: posts,next post,previous posts,post loop, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, carousel slider, custom post type, excerpt, get posts, google, image, image slider, image slideshow, images, new posts, new slider, news slider, next posts, nivo slider, owl slider, page, page slider, pages, popular posts, Post, post slider, post slider plugin, posts, posts slider, product slider, recent, recent post, recent post slider, recent posts, responsive carousel, responsive carousel slider, responsive slider, responsive slideshow, shortcode, sidebar, sidebar slideshow, slider, slider plugin, slideshow, sticky, testimonial scroller, thumbnail, thumbnail slider, ticker, widget, widgets, woocommerce, WooCommerce Products, woocommerce slider, wordpress, wordpress slideshow
 Requires at least: 3.8
 Tested up to: 4.0
 
