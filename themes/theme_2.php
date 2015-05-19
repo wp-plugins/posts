@@ -39,7 +39,7 @@ if($nxt_post_current_post_type === 'post') {
       background: #d0d0d0;
       width: 60px;
       margin-bottom: -20px;
-      opacity:0.3;
+      opacity:0.35;
       cursor: pointer;
     }
     #pre_nxt_p_close:hover{

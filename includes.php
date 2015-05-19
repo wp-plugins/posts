@@ -4,7 +4,6 @@
 	$nxt_post_plugin_enable = get_option('nxt_post_plugin_enable');
 	if(!empty($nxt_post_plugin_enable)){
 		include (get_option('nxt_post_option_template_select'));
-		//include
 	}
 	
 include 'admin/admin_menu_nxt_post.php';
