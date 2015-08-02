@@ -50,7 +50,7 @@ if($nxt_post_current_post_type === 'post') {
       width: 60px;
       display: none;
       margin-bottom: -20px;
-      opacity:0.3;
+      opacity:0.4;
       cursor: pointer;
     }
     #pre_nxt_p_open:hover{

@@ -2,7 +2,7 @@
 /*
 Plugin Name: Next Posts
 Author: umarbajwa
-Description: Add Beautiful froms to your website to increase converions
+Description: Create Next posts boxes in minutes for your WordPress websites.
 Plugin URI: http://web-settler.com/mailchimp-subscribe-form/
 Author URI: http://web-settler.com/mailchimp-subscribe-form/
 Version: 1.0
