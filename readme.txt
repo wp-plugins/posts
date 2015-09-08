@@ -1,8 +1,9 @@
 === Post Next ===
 Contributors: umarbajwa
 Tags: posts,next post,previous posts,post loop, best carousel slider, best post slider, best responsive slider, best slideshow, best slideshow plugin, carousel slider, custom post type, excerpt, get posts, google, image, image slider, image slideshow, images, new posts, new slider, news slider, next posts, nivo slider, owl slider, page, page slider, pages, popular posts, Post, post slider, post slider plugin, posts, posts slider, product slider, recent, recent post, recent post slider, recent posts, responsive carousel, responsive carousel slider, responsive slider, responsive slideshow, shortcode, sidebar, sidebar slideshow, slider, slider plugin, slideshow, sticky, testimonial scroller, thumbnail, thumbnail slider, ticker, widget, widgets, woocommerce, WooCommerce Products, woocommerce slider, wordpress, wordpress,posts,plugin,post,page, slideshow
+Stable Tag: 2.0
 Requires at least: 3.4
-Tested up to: 4.2
+Tested up to: 4.3
 
 
 Adds interactive sticky next post popup/optin.
@@ -26,7 +27,4 @@ Increase your blog post traffic by adding this powerful tool. Show them preview 
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, \`/tags/4.3/screenshot-1.png\` (or jpg, jpeg, gif)
-2. This is the second screen shot
 
