@@ -8,9 +8,8 @@ Author URI: http://web-settler.com/mailchimp-subscribe-form/
 Version: 1.0
 Donate link: http://web-settler.com/mailchimp-subscribe-form/
 */
-	
 
-	include 'includes.php';
+include 'includes.php';
 
 
 
